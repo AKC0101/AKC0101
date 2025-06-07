@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="left">🧠 AI/ML  | 🎨 3D Animator | ⚙️ Full-Stack Developer</h4>
+<h3 align="left">🧠 AI/ML  | 🎨 3D Animator | ⚙️ Full-Stack Developer</h3>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="center">Technologies I can make you comfortable with</h3>
+<h2 align="center">Technologies I can make you comfortable with</h2>
 
 ###
 
