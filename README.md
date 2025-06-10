@@ -100,4 +100,4 @@
 
 <h3 align="center">I have Multiple Personality Disorder ... means multiple github accounts , check that also !!</h3>
 
-<h4><a href="https://github.com/AEX-WEX">Weather, wait Huh?</a><h4/>
+<h4 align='center'><a href="https://github.com/AEX-WEX">Weather, wait Huh?</a><h4/>
