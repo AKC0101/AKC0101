@@ -12,6 +12,14 @@
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/AKC0101/count.svg?"  />
+</div>
+
+###
+
+###
+
 <h2 align="center">Technologies I can make you comfortable with</h2>
 
 ###
@@ -97,6 +105,7 @@
 </picture>
 
 ###
+
 
 <h3 align="center">I have Multiple Personality Disorder ... means multiple github accounts , check that also !!</h3>
 
